@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LayoutPlayground</string>
+    <string name="buttonText">Im a BUTTON!</string>
+    <string name="message">Thank you for choosing our tea! how do you want it?</string>
+    <string name="temp">Temperature</string>
+    <string name="hot">Hot</string>
+    <string name="cold">Cold</string>
+    <string name="milk">Milk</string>
+    <string name="sugar">Sugar</string>
+    <string name="lemon">Lemon</string>
+    <string name="lime">Lime</string>
+</resources>
